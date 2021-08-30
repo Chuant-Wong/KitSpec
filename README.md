@@ -1,0 +1,2 @@
+# KitSpec
+pod spec repo
